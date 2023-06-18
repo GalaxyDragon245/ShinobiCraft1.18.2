@@ -28,7 +28,6 @@ public interface ShinobiPlayer extends INBTSerializable<Tag> {
 
     //Jutsu Types
     boolean isToggled();
-
     boolean isCharged();
 
 }
